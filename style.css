@@ -1,0 +1,33 @@
+.menü {
+    background-color: #425F57; 
+    color: aliceblue;
+    font-size: 36px;
+    font-family: EB_Garamond;   
+}
+
+.başlıklar {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+   color: black;
+}
+
+.kategori {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color:  #425F57
+}
+
+.hakkımızda {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+
+.paragraf {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14px;
+}
+
+
